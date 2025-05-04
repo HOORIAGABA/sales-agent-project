@@ -1,0 +1,6 @@
+lead_id,name,age,country,interest,status
+1,Alice,30,USA,AI Development Kit,secured
+2,Bob,,,,no_response
+3,Charlie,25,Canada,Cloud Computing Services,secured
+4,David,45,UK,Data Analytics Platform,secured
+5,Eve,,,,no_response
